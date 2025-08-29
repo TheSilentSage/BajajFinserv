@@ -34,8 +34,7 @@ src/main/java/com/example/webhook/
 ## Download Links
 
 - **JAR File**: `target/webhook-sql-solver-1.0.0.jar`
-- **Source Code**: Complete Maven project structure
-- **Raw JAR**: Available in the `target/` directory after building
+- **Raw JAR**: [Download Jar File](https://github.com/TheSilentSage/BajajFinserv/raw/refs/heads/main/target/webhook-sql-solver-1.0.0.jar)
 
 ## License
 
